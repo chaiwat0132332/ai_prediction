@@ -8,6 +8,4 @@ xlsxwriter==3.1.9
 matplotlib==3.8.3
 plotly==5.22.0
 
-torch
-torchvision
-torchaudio
+torch==2.2.2
